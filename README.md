@@ -1,8 +1,8 @@
-# Python Basic Programs
 
-This repository contains beginner Python programs practiced by me.
 
-## Programs
+##This repository contains beginner Python programs practiced by me.
+
+Programs
 - Even Odd
 - Factorial
 - Palindrome
