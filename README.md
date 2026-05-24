@@ -1,4 +1,4 @@
-# python basics programs
+# Python Basics Programs
 
 This repository contains beginner Python programs practiced by me.
 
